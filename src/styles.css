@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Quicksand:wght@300;600&display=swap");
+
+.App {
+  font-family: "PT Serif", serif;
+  text-align: center;
+}
+:root {
+  --primary-color: #4b5563;
+}
+#heading {
+  color: var(--primary-color);
+  letter-spacing: 1px;
+}
+
+#emoji-input {
+  padding: 1rem 2rem;
+  border: 1px solid var(--primary-color);
+  border-radius: 0.5rem;
+}
+
+#emoji-known {
+  color: var(--primary-color);
+  font-size: 1.3rem;
+  margin-left: 1rem;
+}
+
+#meaning {
+  color: var(--primary-color);
+  font-size: 1.5rem;
+}
