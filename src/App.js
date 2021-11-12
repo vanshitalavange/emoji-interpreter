@@ -58,18 +58,6 @@ export default function App() {
           </li>
         );
       })}
-
-      <footer class="social-links">
-        <a href="https://github.com/vanshitalavange">
-          <i class="fab fa-github"></i>
-        </a>
-        <a href="https://www.linkedin.com/in/vanshitalavange/">
-          <i class="fab fa-linkedin"></i>
-        </a>
-        <a href="https://twitter.com/LavangeVanshita">
-          <i class="fab fa-twitter-square"></i>
-        </a>
-      </footer>
     </div>
   );
 }
